@@ -19,6 +19,6 @@
   "homepage": "https://github.com/MagusWyvern/ekeputusan-scraper#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0",
-    "puppeteer": "^19.4.1"
+    "puppeteer": "^22.13.1"
   }
 }
